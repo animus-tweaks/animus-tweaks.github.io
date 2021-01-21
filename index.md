@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to AnimusTweaks Offical Jailbreak List
 
 You can use the [editor on GitHub](https://github.com/animus-tweaks/animus-tweaks.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -9,21 +9,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Current Working Jailbreaks:
 
-# Header 1
-## Header 2
-### Header 3
+Chimera: https://chimera.coolstar.org/
+Checkra1n: https://checkra.in/
+Odyssey: https://theodyssey.dev/
+Silo: https://getsileo.app/
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Have Fun Using These
+I am NOT Responsible For Anything That Happens off-site
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
